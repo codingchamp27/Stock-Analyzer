@@ -1,0 +1,7 @@
+pathway        # Pathway for LLM embeddings, chat models, etc.
+pandas            # For data manipulation (if required in your project)
+requests         # For making HTTP requests to APIs
+datetime                 # Already part of Python's standard library
+streamlit        # For building web interfaces
+sentence-transformers    # Optional, used for embeddings (only if needed externally)
+python-dotenv   # To manage environment variables from .env files
