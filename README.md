@@ -194,3 +194,7 @@ You can run the UI separately by navigating to cd examples/ui and running Stream
 streamlit run app.py command. It connects to the Discounts backend API automatically and you will see the UI frontend is running http://localhost:8501/ on a browser:
 
   ![screenshot_ui_streamlit](streamlit_ui.png)
+
+
+The below demo video illustrates our project:-
+Video_illustrator.mov
