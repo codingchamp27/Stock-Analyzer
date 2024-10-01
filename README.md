@@ -197,4 +197,4 @@ streamlit run app.py command. It connects to the Discounts backend API automatic
 
 
 The below demo video illustrates our project:-
-Video_illustrator.mov
+[](Video_illustrator.mov)
