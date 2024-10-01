@@ -197,5 +197,7 @@ streamlit run app.py command. It connects to the Discounts backend API automatic
 
 
 The below demo video illustrates our project:-
+
  g4mbl3r-145: [Linkedin and Video Link](https://www.linkedin.com/posts/aman-agrawal-a121a6293_stock-analyser-activity-7246579311409831937-uFEP?utm_source=share&utm_medium=member_desktop)
+ 
  codingchamp27: [Linkedin and Video Link](https://www.linkedin.com/posts/harsh-kumar-234283279_stock-analyzer-using-llm-rag-app-activity-7246579709587705858-MAHR?utm_source=share&utm_medium=member_desktop)
